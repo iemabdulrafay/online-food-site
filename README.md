@@ -19,7 +19,7 @@ Welcome to MyOnlineFood.com - a simple and elegant website template for showcasi
 
 MyOnlineFood.com is a responsive and visually appealing HTML template designed to highlight the services and offerings of your food-related business. This template includes sections for Home, Services, Client Showcase, and a Contact Form.
 
-![MyOnlineFood.com](img/screenshot.png)
+![MyOnlineFood.com](logo.jpg)
 
 ## Features
 
@@ -35,7 +35,7 @@ MyOnlineFood.com is a responsive and visually appealing HTML template designed t
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/myonlinefood.git`
+1. Clone this repository: `git clone https://github.com/iemabdulrafay/online-food-site.git`
 2. Open the project folder in your code editor.
 
 ## Usage
