@@ -26,7 +26,7 @@ Contact Form: Allow potential customers to get in touch with you through a user-
 Responsive Design: This template is designed to work seamlessly on various screen sizes and devices.
 
 Getting Started
-Clone this repository: git clone https://github.com/yourusername/myonlinefood.git
+Clone this repository: git clone https://github.com/iemabdulrafay/my-online-food.git
 Open the project folder in your code editor.
 Usage
 Customize the content in the HTML file to match your business details, services, and images.
