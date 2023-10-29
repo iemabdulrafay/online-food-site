@@ -1,8 +1,4 @@
-Certainly, here's a README for your HTML project. This README will help users understand the purpose and structure of your project when they visit your GitHub repository.
-
----
-
-# MyOnlineFood.com
+# MyOnlineFood
 
 Welcome to MyOnlineFood.com - a simple and elegant website template for showcasing an online food service. Whether you're a food catering business, a restaurant offering bulk ordering, or a food delivery service, this template can help you create a professional online presence.
 
